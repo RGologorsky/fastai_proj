@@ -1,0 +1,14 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore datasets folder
+datasets
+
+# Ignore all jpeg files
+*.jpeg
+
+# Ignore files related to API keys
+#.env
+
+# Ignore SASS config files
+#.sass-cache
